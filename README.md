@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm pasupathi07777</h1>
+<h1 align="center">Hi 👋, I'm pasupathi</h1>
 <h3 align="center">Javascript full stack developer</h3>
 
 - 🌱 I’m currently learning **DSA**
