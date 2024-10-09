@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'ts me Pasupathi
+
+
+Computer Science Engineering Student 
+
 
 <!--
 **pasupathi07777/pasupathi07777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
