@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pasupathi</h1>
-<h3 align="center">Javascript full stack developer</h3>
+<h3 align="center">MERN full stack developer</h3>
 
 - 🌱 I’m currently learning **DSA**
 
