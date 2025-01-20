@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pasupathi07777-portfolio.netlify.app/](https://pasupathi07777-portfolio.netlify.app/)
 
-- 💬 Ask me about **Javascript | React | Node Js | Express Js | MogoDB | Python**
+- 💬 Ask me about **Javascript | React | Redux | Typescript | Node Js | Express Js | MogoDB | Python**
 
 - 📫 How to reach me **pasupathi0757@gmail.com**
 
