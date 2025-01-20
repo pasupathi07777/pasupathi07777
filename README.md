@@ -67,14 +67,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pasupathi07777&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasupathi07777&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
-
 <p align="center">
   🚀 *"Code is like humor. When you have to explain it, it’s bad."*  
 </p>
