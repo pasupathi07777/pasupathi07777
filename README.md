@@ -40,7 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50" alt="Redux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
-<img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/expressjs-icon-colored.svg" width="60" height="60" alt="Express.js" />
+<img src="https://img.icons8.com/color/96/express-js.png" width="60" height="60" alt="Express.js" />
+
   <img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" width="50" height="50" alt="TanStack Query"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" alt="Tailwind CSS"/>
