@@ -20,7 +20,7 @@
 - 👨‍💻 All of my projects are available at [My Portfolio](https://pasupathi07777-portfolio.netlify.app/)
 - 💬 Ask me about **JavaScript, React, Angular, Node.js, or any web dev stuff**
 - 📫 How to reach me **pasupathi0757@gmail.com**
-- 📄 Know about my experiences [View Resume](https://pasupathi07777-portfolio.netlify.app/resume)
+- 📄 Know about my experiences [View Resume](https://pasupathi07777-portfolio.netlify.app)
 - ⚡ Fun fact **I can solve a Rubik's cube in under 2 minutes**
 
 ---
@@ -28,9 +28,7 @@
 ## 🌐 Socials
 <p align="center">
   <a href="https://linkedin.com/in/pasupathi07777" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/pasupathi07777" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="https://leetcode.com/pasupathi07777" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://medium.com/@pasupathi0757" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
 
 ---
@@ -109,16 +107,6 @@
 <p align="center">
   <em>"First, solve the problem. Then, write the code." - John Johnson</em>
 </p>
-
----
-
-## 🎶 Currently Listening
-[![Spotify](https://novatorem-git-master-pasupathi07777.vercel.app/api/spotify)](https://open.spotify.com/user/pasupathi07777)
-
----
-
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/pasupathi07777/pasupathi07777/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
