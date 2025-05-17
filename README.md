@@ -90,15 +90,6 @@
 
 ---
 
-## 🎯 Recent Projects
-<!-- START: Projects -->
-- [E-Commerce Platform (MERN Stack)](https://github.com/pasupathi07777/ecommerce-mern) - Full-featured online store
-- [Task Management App (Angular)](https://github.com/pasupathi07777/task-manager-angular) - Productivity app with Angular
-- [Social Media Dashboard (React)](https://github.com/pasupathi07777/social-media-dashboard) - Analytics dashboard
-<!-- END: Projects -->
-
----
-
 ## 💬 Favorite Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
